@@ -1,16 +1,10 @@
-# React + Vite
+# About This Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of a mini–series where I practice implementing the React framework across multiple smaller builds before introducing it into my larger, full-scale applications.
+---
 
-Currently, two official plugins are available:
+- My goal is to **strengthen the fundamentals—components**, **state management**, **data fetching**, and **frontend-to-backend integration**—by applying them to mini projects that mirror real features from my main systems.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- This frontend is intentionally simple right now, and it will evolve as I become more comfortable with React. The main purpose is to practice connecting React to various backend APIs I use in my stack, including ASP.NET, Express.js, FastAPI, Django, and others.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- I’m not primarily a frontend developer, but as a full-stack engineer, understanding these fundamentals is essential for delivering complete, user-facing systems. I love what I do, and I’m committed to growing my skills across the entire stack—one project at a time.
